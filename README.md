@@ -1,0 +1,1 @@
+# semi-ordered-probit-bivariate-model
